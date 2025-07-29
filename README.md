@@ -55,11 +55,6 @@ You’ll receive a message if rain is expected in the next 12 hours for Bhopal.
 * `twilio`
 * `python-dotenv`
 
-You can generate a `requirements.txt` file with:
-
-```bash
-pip freeze > requirements.txt
-```
 
 ---
 
