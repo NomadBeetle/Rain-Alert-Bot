@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Twilio](https://img.shields.io/badge/Twilio-SMS-red)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
+
 # Rain Alert SMS Bot
 
 A Python script that checks the weather forecast for Bhopal using the OpenWeatherMap API and sends an SMS alert via Twilio if rain is expected. This can be scheduled to run daily and helps you never forget your umbrella again! 
