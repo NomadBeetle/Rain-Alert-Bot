@@ -18,7 +18,7 @@ A Python script that checks the weather forecast for Bhopal using the OpenWeathe
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rain-alert-bot.git
+git clone https://github.com/NomadBeetle/rain-alert-bot.git
 cd Rain-Alert-Bot
 ```
 
